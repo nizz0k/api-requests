@@ -1,0 +1,2 @@
+ curl -u user:pass \
+https://lpc.qi-cms.com/api/get/object/project_id/63/_per_page/500/_offset/0/_sort_by/id/_sort_direction/ASC/_fields/base64:b2JqZWN0X25hbWUsY29udGV4dC5uYW1lLG9iamVjdF9jbGFzcy5uYW1lLHN0YXJ0X2RhdGU~/_skip_relationship/1
